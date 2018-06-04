@@ -1,3 +1,4 @@
+# CREDITOS AL CANAL FAZT Y AL CREADOR DEL REPOSITORIO
 # [Este repo: prj_js_mongodb](https://github.com/eacevedof/prj_js_mongodb)
 FAZT - MongoDB, Curso Practico Rápido, Desde Cero Para Iniciantes 
 [repo original](https://github.com/FaztWeb/mongodb-course/blob/master/first-db.js)
